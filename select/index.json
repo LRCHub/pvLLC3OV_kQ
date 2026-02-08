@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "青く駆けろ！ (with 弦楽四重奏)",
+  "base_artist": "marasy",
+  "createdAt": "2026-02-08T15:56:09.855693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青く駆けろ！",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/01_青く駆けろ!_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青く駆けろ！",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/02_青く駆けろ!_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青く駆けろ!",
+      "artist": "Marasy",
+      "has_synced": true,
+      "path": "select/03_青く駆けろ!_Marasy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青く駆けろ！",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/04_青く駆けろ!_Leo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青く駆けろ! (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_青く駆けろ!_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青く駆けろ! (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/06_青く駆けろ!_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青く駆けろ!",
+      "artist": "Marasy, Miku Hatsune, Meiko, ミライアカリ, YuNi, 富士葵, 星乃一歌",
+      "has_synced": false,
+      "path": "select/pl_01_青く駆けろ!_Marasy,_Miku_Hatsune,_Meiko,_ミライアカリ,_YuNi,_富士葵,_星乃一歌.txt"
+    }
+  ]
+}
